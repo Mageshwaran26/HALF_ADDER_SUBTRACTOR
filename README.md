@@ -51,6 +51,7 @@ Figure -02 HALF Subtractor
 **Program:**
 
 /* 
+```
 Developed by: Mageshwaran T.A
 
 RegisterNumber:212224230146
@@ -76,6 +77,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/def7af8c-1901-428b-b8dc-f5ab78b7379b)
 
 */
+```
 
 **Result:**
 
