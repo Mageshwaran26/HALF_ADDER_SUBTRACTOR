@@ -66,6 +66,7 @@ and (cy,a,b);
 xor (df,a,b);
 and (bo,~a,b);
 endmodule
+```
 
 **RTL Schematic**
 
@@ -76,8 +77,6 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/def7af8c-1901-428b-b8dc-f5ab78b7379b)
 
-*/
-```
 
 **Result:**
 
